@@ -1,0 +1,5 @@
+ruby-awesome-print (1.1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #711979)
+
+ -- Pallavi TS <pallavi046@gmail.com>  Tue, 09 Jul 2013 13:09:42 +0530
